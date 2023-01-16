@@ -1,4 +1,4 @@
-# 👋 @melvin.
+# 👋 @melvin
 
 ### I'm always getting tagged in random projects.
 
