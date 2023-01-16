@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @melvin.
+# 👋 @melvin.
 
-### I'm always getting tagged in projects that I'm not involved with.
+### I'm always getting tagged in random projects.
 
 <!-- 
 - 👀 I’m interested in ...
