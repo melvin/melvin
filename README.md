@@ -1,6 +1,4 @@
-# 👋 @melvin
-
-### I'm always getting tagged in random projects.
+# 👋
 
 <!-- 
 - 👀 I’m interested in ...
